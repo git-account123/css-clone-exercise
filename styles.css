@@ -10,10 +10,9 @@
     position: absolute;
     background-image: url(https://forever.travel-assets.com/flex/flexmanager/images/2025/03/24/VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.png)
  }
- .dope {
-    padding: 100px 100px;
-    color: white;
- }
+  
+    
+ 
 .rib {
     color: white;
     border-radius: 30px;
@@ -22,11 +21,11 @@
     font-weight: bold;
 }
 .ink {
-    border-radius: 100px;
+    border-radius: 60px;
     background-color: white;
-    width: 700px;
-    height: 100px;
-    align-items: center;
+    width: 900px;
+    height: 60px;
+    text-align: center;
 }
 .pen {
     position: absolute;
@@ -55,6 +54,9 @@
     position: absolute;
     top:800px;
     left: 30px;
+     
+ 
+
 }
 .dodo {
     border-radius: 40px;
@@ -97,6 +99,31 @@
 }
 .top {
     position: absolute;
-    top:1134px;
-    left: 50px:
+    top:1154px;
+    left: 30px;
+    font-weight: bold;
+}
+.nep {
+    position:absolute;
+    top:1154px;
+    left: 290px;
+    font-weight: bold;
+}
+.drew {
+    position: absolute;
+    top:1154px;
+    font-weight: bold;
+    left: 564px;
+}
+.hy {
+    position: absolute;
+    top: 1640px;
+    left: 30px;
+    font-weight: bold;
+}
+.save {
+    position:absolute;
+    top: 1640px;
+    left: 650px;
+    font-weight: bold;
 }
