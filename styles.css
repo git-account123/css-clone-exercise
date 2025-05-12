@@ -62,8 +62,41 @@
     top: 814px;
     left: 300px;
 }
+.uuuh {
+    position:absolute;
+    top: 755px;
+    left: 50px;
+    font-weight: bold;
+    color: black;
+    
+}
 .gigi {
     position: absolute;
     top: 814px;
     left: 560px;
+}
+.bibi {
+    position: absolute;
+    top: 814px;
+    left: 830px;
+}
+.yet {
+    position: absolute;
+    top: 814px;
+    left: 1090px;
+}
+.speed {
+    position: absolute;
+    top: 814px;
+    left: 1340px;
+}
+.vuvu {
+    position:absolute;
+    top: 1034px;
+    left: 50px
+}
+.top {
+    position: absolute;
+    top:1134px;
+    left: 50px:
 }
