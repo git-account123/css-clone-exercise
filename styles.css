@@ -1,11 +1,69 @@
 
  .pig {
-    gap: 80px;
+    gap: 35px;
     text-align: center;
     font-weight: bold;
  }
  .deep {
-    background-color: black;
-    color: white;
-    font-weight: bold;
+    width: 1455px;
+    height: 550px;
+    position: absolute;
+    background-image: url(https://forever.travel-assets.com/flex/flexmanager/images/2025/03/24/VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.png)
  }
+ .dope {
+    padding: 100px 100px;
+    color: white;
+ }
+.rib {
+    color: white;
+    border-radius: 30px;
+    border-color: blue;
+    background-color: blue;
+    font-weight: bold;
+}
+.ink {
+    border-radius: 100px;
+    background-color: white;
+    width: 700px;
+    height: 100px;
+    align-items: center;
+}
+.pen {
+    position: absolute;
+    width: 1000px;
+    height: 60px;
+    border-radius: 30px;
+    background-color:black;
+    color: white;
+    top:700px;
+    left: 300px;
+    align-items: center;
+}
+.tip {
+    text-align: center;
+}
+.pencil {
+    border-radius: 30px;
+    color: white;
+    background-color: lightblue;
+}
+.pencil:hover {
+    color: darkcyan;
+}
+.kk {
+    border-radius: 40px;
+    position: absolute;
+    top:800px;
+    left: 30px;
+}
+.dodo {
+    border-radius: 40px;
+    position: absolute;
+    top: 814px;
+    left: 300px;
+}
+.gigi {
+    position: absolute;
+    top: 814px;
+    left: 560px;
+}
